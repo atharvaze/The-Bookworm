@@ -23,6 +23,14 @@ The Admin window:
 The admin of the library once logged in can add or delete books to the library books database.
 
 
+![adminad](https://user-images.githubusercontent.com/46229364/56847481-fc903c80-68f8-11e9-8f8f-8508c594b684.PNG)
+
+
+
+
+
+
+
 
 
 
