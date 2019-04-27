@@ -5,4 +5,6 @@ It is built using Tkinter GUI,python 3 and sqlite database.
 The Login panel:
 It has two sections namely admin login and user login.
 
+![bw](https://user-images.githubusercontent.com/46229364/56847378-91923600-68f7-11e9-87c8-5dc73b2b4c50.PNG)
+
 
