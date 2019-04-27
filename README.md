@@ -8,7 +8,7 @@ It has two main sections namely admin login and user login and a register sectio
 ![bw](https://user-images.githubusercontent.com/46229364/56847378-91923600-68f7-11e9-87c8-5dc73b2b4c50.PNG)
 
 The User window:
-Once a registered user logs in he/she can issue any book available in the library.
+Once a registered user logs in he/she can issue any book available in the library.(Only one book at a time!)
 
 
 ![issbw](https://user-images.githubusercontent.com/46229364/56847397-d4eca480-68f7-11e9-945f-955974a7e67f.PNG)
@@ -24,6 +24,18 @@ The admin of the library once logged in can add or delete books to the library b
 
 
 ![adminad](https://user-images.githubusercontent.com/46229364/56847481-fc903c80-68f8-11e9-8f8f-8508c594b684.PNG)
+
+
+The admin can view the number of users of the library and the books issued by them in the display records section.
+
+
+![admin2](https://user-images.githubusercontent.com/46229364/56847492-1df12880-68f9-11e9-93b0-64a5689326ee.PNG)
+
+
+
+
+
+
 
 
 
